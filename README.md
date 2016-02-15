@@ -1,4 +1,5 @@
 # jompo
+<<<<<<< HEAD
 
 A reagent application designed to ... well, that part is up to you.
 
@@ -44,3 +45,6 @@ The above command assumes that you have [phantomjs](https://www.npmjs.com/packag
 lein clean
 lein cljsbuild once min
 ```
+=======
+Pretty wierd oop stuff
+>>>>>>> 834e2f5f3ac8b03c5723ff71960b338eead465eb

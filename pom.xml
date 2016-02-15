@@ -6,6 +6,13 @@
   <version>0.1.0-SNAPSHOT</version>
   <name>jompo</name>
   <description/>
+  <scm>
+    <connection>scm:git:git://github.com/NoWayHoze/jompo.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/NoWayHoze/jompo.git</developerConnection>
+    <tag>c34b4be204ee68ce72cbad088a2bf6ee69ce660c
+</tag>
+    <url>https://github.com/NoWayHoze/jompo</url>
+  </scm>
   <build>
     <sourceDirectory>src/clj</sourceDirectory>
     <testSourceDirectory>test</testSourceDirectory>
